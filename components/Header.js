@@ -2,6 +2,7 @@ import React from 'react'
 import Spline from '@splinetool/react-spline/next';
 import TypeAni from './TypeAni';
 import MobileNavMenu from './MobileNavMenu';
+import { Suspense } from 'react';
 
 
 const Header = () => {
@@ -79,9 +80,11 @@ const Header = () => {
           </div>
         </div>
         <div className="hidden md:block lg:w-[500px] h-[500px] flex justify-center items-center">
-          <Spline
-            scene="https://prod.spline.design/aAzglDTNZxk0mRoA/scene.splinecode"
-          />
+          <Suspense fallback={<div className="text-white text-xs">Loading 3D...</div>}>
+            <Spline
+              scene="https://prod.spline.design/aAzglDTNZxk0mRoA/scene.splinecode"
+            />
+          </Suspense>
         </div>
       </div>
       <a href="#skills" className="flex justify-center items-center animate-bounce">

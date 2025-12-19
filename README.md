@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <h1>Welcome to Rita's Portfolio</h1>
+  <p>
+    <strong>Software Developer Portfolio | Crafting web experiences with Next.js</strong>
+  </p>
+  <p>
+    <a href="https://rita-portfolio-xi.vercel.app/" target="blank" >Visit Website</a> |
+  </p>
+  <h6>Made with ❤️ &nbsp;by RITA ZHAO</h6>
+</div>
 
-## Getting Started
+<br>
 
-First, run the development server:
+## 📖 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> This is my personal portfolio space, designed to showcase my technical growth, project experiences, and design philosophy.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Built with **Next.js**, this project focuses on a seamless user experience through highly modular components and deep optimization for SEO and performance.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div align="center">
+  <img src="readme_p1.png" alt="Portfolio Preview" width="100%" style="border-radius: 10px;">
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎨 Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- 📱 **Responsive Design**: Fully optimized for all screen sizes, from mobile devices to 2K monitors.
+<div align="center">
+  <img src="path/to/your/responsive-screenshot.png" alt="Responsive Design Preview" width="100%" style="border-radius: 10px;">
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ⚡ **Optimized Performance**: Focused on delivering a smooth user experience through efficient code and modern web practices.
+<div align="center">
+  <img src="path/to/your/performance-screenshot.png" alt="Performance Score Preview" width="100%" style="border-radius: 10px;">
+</div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🚀 **Dynamic Content**: Integrated with a modular structure for easy updates to projects and resume data.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🗂 Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Below is a list of technologies I used for this portfolio.
+
+- 🎨 **Frontend:** NEXT.js (React)
+- 📠 **Pattern:** Component-Based Architecture
+- 🌳 **Backend:** Next.js (Serverless)
+- ☁️ **Cloud:** Vercel
+- ♾ **CI/CD:** Vercel
+- 🎩 **Deployment:** Vercel

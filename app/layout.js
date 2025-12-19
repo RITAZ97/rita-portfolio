@@ -1,5 +1,6 @@
 import { Inter, Coiny, Sriracha } from "next/font/google";
 import "./globals.css";
+export const dynamic = 'force-static';
 
 const inter = Inter({
   subsets: ["latin"],
