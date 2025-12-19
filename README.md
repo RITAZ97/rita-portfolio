@@ -6,7 +6,7 @@
   <p>
     <a href="https://rita-portfolio-xi.vercel.app/" target="blank" >Visit Website</a> |
   </p>
-  <h6>Made with ❤️ &nbsp;by RITA ZHAO</h6>
+  <h6>Made by RITA ZHAO</h6>
 </div>
 
 <br>
@@ -26,14 +26,10 @@ Built with **Next.js**, this project focuses on a seamless user experience throu
 ## 🎨 Key Features
 
 - 📱 **Responsive Design**: Fully optimized for all screen sizes, from mobile devices to 2K monitors.
-<div align="center">
-  <img src="path/to/your/responsive-screenshot.png" alt="Responsive Design Preview" width="100%" style="border-radius: 10px;">
-</div>
+
 
 - ⚡ **Optimized Performance**: Focused on delivering a smooth user experience through efficient code and modern web practices.
-<div align="center">
-  <img src="path/to/your/performance-screenshot.png" alt="Performance Score Preview" width="100%" style="border-radius: 10px;">
-</div>
+
 
 - 🚀 **Dynamic Content**: Integrated with a modular structure for easy updates to projects and resume data.
 
@@ -49,3 +45,38 @@ Below is a list of technologies I used for this portfolio.
 - ☁️ **Cloud:** Vercel
 - ♾ **CI/CD:** Vercel
 - 🎩 **Deployment:** Vercel
+---
+
+## 🚀 Running
+
+Dev:
+```sh
+npm run dev
+```
+Prod:
+```sh
+npm run build
+```
+---
+## 🗺️ Feature Roadmap
+
+-  **Core Architecture**: Refactor from JS to TS for better type safety
+-  **Modern UI/UX**: Fully Responsive design with smooth animations
+-  **Performance**: Asset optimization and lazy loading components
+-  **SEO**: Optimized Meta tags and Lighthouse performance scores
+-  **Navigation**: Mobile-friendly menu and intuitive user flow
+-  **Error Handling**: Custom 404 pages for a polished user experience
+-  **Deployment**: Fully automated CI/CD pipeline via Vercel
+
+---
+
+## 📯 Contact Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- **GitHub**: [@RITAZ97](https://github.com/RITAZ97/rita-portfolio)
+- **Email**: [ritazhaocareer@gmail.com](mailto:ritazhaocareer@gmail.com)
+
+## 📑 License
+
+MIT
