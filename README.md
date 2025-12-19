@@ -18,7 +18,7 @@
 Built with **Next.js**, this project focuses on a seamless user experience through highly modular components and deep optimization for SEO and performance.
 
 <div align="center">
-  <img src="/readme_p1.png" alt="Portfolio Preview" width="100%" style="border-radius: 10px;">
+  <img src="public/readme_p1.png" alt="Portfolio Preview" width="100%" style="border-radius: 10px;">
 </div>
 
 ---
