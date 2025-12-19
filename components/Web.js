@@ -62,7 +62,7 @@ const Web = () => {
               className="">
               <img
                 src="project_2.png"
-                alt="Project1"
+                alt="Project2"
                 className="h-full w-full object-cover"
               />
             </a>
